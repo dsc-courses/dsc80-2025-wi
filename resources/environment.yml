@@ -1,0 +1,39 @@
+name: dsc80
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip=24.2
+  - beautifulsoup4=4.12.3
+  - docopt=0.6.2
+  - ipywidgets=8.1.5
+  - jupyterlab=4.2.5
+  - jupyterlab_server=2.27.3
+  - jupyterlab_widgets=3.0.13
+  - matplotlib=3.9.2
+  - matplotlib-inline=0.1.7
+  - nbclassic=1.1.0
+  - nbconvert=7.16.4
+  - notebook=7.2.2
+  - numpy=2.1.1
+  - pandas=2.2.3
+  - plotly=5.24.1
+  - pydantic=2.9.2
+  - pyOpenSSL=24.2.1
+  - pytest-xdist=3.6.1
+  - PyYAML=6.0.2
+  - requests=2.32.3
+  - requests-oauthlib=2.0.0
+  - scikit-learn=1.5.2
+  - seaborn=0.13.2
+  - SQLAlchemy=2.0.35
+  - statsmodels=0.14.3
+  - tqdm=4.66.5
+  - urllib3=2.2.3
+  - colorful=0.5.6
+  - certifi=2024.8.30
+  - geopandas=1.0.1
+  - shapely=2.0.6
+  - pyogrio=0.9.0
+  - pip:
+    - otter-grader==3.1.4

@@ -1,0 +1,18 @@
+{%- comment -%} Depends on: page.redirect_to {%- endcomment -%}
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}" />
+    <script type="text/javascript">
+      window.location.href = '{{ page.redirect_to }}';
+    </script>
+    <title>Page Redirection</title>
+  </head>
+  <body>
+    <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+    If you are not redirected automatically, follow this
+    <a href="{{ page.redirect_to }}">link</a>.
+  </body>
+</html>
