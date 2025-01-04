@@ -2,18 +2,28 @@
 title: "Week 10 \u2013 Evaluating Classifiers"
 weekNumber: 10
 days:
-  - date: '2024-12-03'
-    events:
-      - name: LEC 19
-        type: lecture
-        title: Model Fairness, Review, Conclusion
-        blank: resources/lectures/lec19/lec19-live.html
-        filled: resources/lectures/lec19/lec19.html
-        reading: '[Ch. 19.5](https://learningds.org/ch/19/class_dr.html)'
-  - date: '2024-12-05'
-    events:
-      - name: LEC 20
-        type: lecture
-        title: 'Guest Lecture: LLMs (1:30pm-3:00pm in the HDSI MPR)'
-        reading: ''
+- date: '2025-03-11'
+  events:
+  - name: LEC 18
+    type: lecture
+    title: Classifier Evaluation and Model Fairness
+    reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html)'
+- date: '2025-03-12'
+  events:
+  - name: LAB 9
+    type: lab
+    title: Pipelines
+    reading: ''
+- date: '2025-03-13'
+  events:
+  - name: LEC 19
+    type: lecture
+    title: Review, Conclusion
+    reading: '[Ch. 19.5](https://learningds.org/ch/19/class_dr.html)'
+- date: '2025-03-14'
+  events:
+  - name: FINAL PROJ
+    type: proj
+    title: Final Project
+    reading: ''
 ---
