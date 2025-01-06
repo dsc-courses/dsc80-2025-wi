@@ -15,7 +15,7 @@ nav_order: 1
 
 [syllabus]: syllabus
 [ed]: https://edstem.org/us/join/tq4PYn
-[gradescope]: https://www.gradescope.com/courses/937053
+[gradescope]: https://www.gradescope.com/courses/941090
 [github]: https://github.com/dsc-courses/dsc80-2025-wi
 [welcome-survey]: https://forms.gle/9sEF68d9gWSCsqhUA
 [exam-accommodations]: https://forms.gle/x4gW3PLwZucdnpXY6
