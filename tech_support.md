@@ -86,9 +86,9 @@ bash Miniforge3-$(uname)-$(uname -m).sh` -->
 
 Make sure to run this command in the same folder that `Miniforge3-Windows-x64_64.exe` is! If that's not the folder that your command line interface is looking in, you'll need to `cd` there first, e.g. `cd C:\Users\surajrampure\Desktop` if that file is on your Desktop.
 
-### Step 2: Download [`environment.yml`](https://github.com/dsc-courses/dsc80-2024-fa/blob/gh-pages/resources/environment.yml)
+### Step 2: Download [`environment.yml`](https://github.com/dsc-courses/dsc80-2025-wi/blob/gh-pages/resources/environment.yml)
 
-[This file](https://github.com/dsc-courses/dsc80-2024-fa/blob/gh-pages/resources/environment.yml) contains the necessary details to configure your environment. If you take a look at it, you'll see that it contains a specific Python version (`python=3.12`) along with specific package versions (like `pandas==2.2.3` and `requests==2.32.3`, for example).
+[This file](https://github.com/dsc-courses/dsc80-2025-wi/blob/gh-pages/resources/environment.yml) contains the necessary details to configure your environment. If you take a look at it, you'll see that it contains a specific Python version (`python=3.12`) along with specific package versions (like `pandas==2.2.3` and `requests==2.32.3`, for example).
 
 ### Step 3: Create a new `conda` environment
 
@@ -135,7 +135,7 @@ To open a Jupyter Notebook, use the `jupyter notebook` command in your Terminal 
 ### Using Git
 
 All of our course materials, including your assignments, are hosted on
-GitHub in [this Git repository](https://github.com/dsc-courses/dsc80-2024-fa). This means that you'll need to download and use
+GitHub in [this Git repository](https://github.com/dsc-courses/dsc80-2025-wi). This means that you'll need to download and use
 [Git](https://git-scm.com/) in order to work with the course
 materials.
 
@@ -150,7 +150,7 @@ There are Git GUIs, and you can use them for this class. You can also
 use the command-line version of Git. To get started, you\'ll need to
 \"clone\" the course repository. The command to do this is:
 
-    git clone https://github.com/dsc-courses/dsc80-2024-fa
+    git clone https://github.com/dsc-courses/dsc80-2025-wi
 
 This will copy the repository to a directory on your computer. You should only need to do this once.
 
@@ -165,7 +165,7 @@ to lose work (although it\'s still possible!).
 
 **Merge Conflicts**
 
-You might face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/dsc-courses/dsc80-2024-fa) by pushing new assignments on our side. Here are some steps you can follow to resolve them:
+You might face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/dsc-courses/dsc80-2025-wi) by pushing new assignments on our side. Here are some steps you can follow to resolve them:
 
 NOTE: Whenever working with GitHub pulls, merges, etc., it's a good idea to save your important work locally so that if you accidentally overwrite your files you still have the work saved. **Save your work locally before following the steps below.**
 

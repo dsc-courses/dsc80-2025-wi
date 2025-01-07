@@ -15,4 +15,4 @@ All office hours are held in person. Office hours held from Monday through Frida
 
 Saturday office hours, if any, will be held in a different location; see the corresponding calendar events for details.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&title&showNav=1&mode=WEEK&showPrint=0&showTabs=0&showCalendars=0&showDate=1&showTitle=0&src=c_79a4e7285569104fd7755de5e6ed9e7e4dbcb0c2c2b350b427bbce63305dbec4@group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&title&showNav=1&mode=WEEK&showPrint=0&showTabs=0&showCalendars=0&showDate=1&showTitle=0&src=c_d360d350434ba59d640affb5eded3e02c8a8ac426087bd5a622dcdeed25991fe%40group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

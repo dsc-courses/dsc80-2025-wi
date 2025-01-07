@@ -19,11 +19,11 @@ nav_order: 2
 
 <!-- prettier-ignore-end -->
 
-[ed]: https://edstem.org/us/join/wh9rbh
-[gradescope]: https://www.gradescope.com/courses/877914
-[github]: https://github.com/dsc-courses/dsc80-2024-fa
-[welcome-survey]: https://forms.gle/reSnHNVvjGN2ao8UA
-[exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
+[ed]: https://edstem.org/us/join/tq4PYn
+[gradescope]: https://www.gradescope.com/courses/937053
+[github]: https://github.com/dsc-courses/dsc80-2025-wi
+[welcome-survey]: https://forms.gle/9sEF68d9gWSCsqhUA
+[exam-accommodations]: https://forms.gle/x4gW3PLwZucdnpXY6
 [extension-request-form]: https://forms.gle/F5k5VuVLq5DPkqw78
 
 ## About 🧐
@@ -582,12 +582,15 @@ for help on a specific concern, there are several campus resources available to
 you, including:
 
 - [UCSD Counseling and Psychological Services (CAPS)](https://caps.ucsd.edu/)
-- [Hub Basic Needs Center](https://thehub.ucsd.edu/)
 - [Office for Students with Disability (OSD)](https://osd.ucsd.edu/)
 - [Office for Prevention of Sexual Harrassment and
   Discrimination](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html)
 
----
+#### Food Support for Students:  
+
+If you are skipping and stretching meals, or having difficulties affording or accessing food, you may be eligible for CalFresh, California’s Supplemental Nutrition Assistance Program, that can provide up to $292 a month in free money on a debit card to buy food. Students can apply at: https://benefitscal.com/r/ucsandiegocalfresh. 
+
+Also, The Hub Basic Needs Center at UCSD exists to empower all students by connecting them to resources for food, stable housing and financial literacy.  Visit their site at https://basicneeds.ucsd.edu.
 
 ## Acknowledgements 🙏
 

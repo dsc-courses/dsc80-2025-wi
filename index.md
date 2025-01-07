@@ -14,11 +14,11 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 [syllabus]: syllabus
-[ed]: https://edstem.org/us/join/wh9rbh
-[gradescope]: https://www.gradescope.com/courses/877914
-[github]: https://github.com/dsc-courses/dsc80-2024-fa
-[welcome-survey]: https://forms.gle/9JdiAnu75D7T7MAu7
-[exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
+[ed]: https://edstem.org/us/join/tq4PYn
+[gradescope]: https://www.gradescope.com/courses/941090
+[github]: https://github.com/dsc-courses/dsc80-2025-wi
+[welcome-survey]: https://forms.gle/uYGK8tFj8EygXmERA
+[exam-accommodations]: https://forms.gle/NyYbVr1s3BY95Zw1A
 [extension-request-form]: https://forms.gle/F5k5VuVLq5DPkqw78
 
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
