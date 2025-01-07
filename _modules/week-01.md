@@ -7,6 +7,8 @@ days:
   - name: LEC 1
     type: lecture
     title: Introduction, Data Science Lifecycle
+    blank: resources/lectures/lec01/lec01-live.html
+    filled: resources/lectures/lec01/lec01.html
     reading: '[Ch. 1](https://learningds.org/ch/01/lifecycle_intro.html)'
 - date: '2025-01-09'
   events:
