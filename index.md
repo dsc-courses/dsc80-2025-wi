@@ -19,7 +19,7 @@ nav_order: 1
 [github]: https://github.com/dsc-courses/dsc80-2025-wi
 [welcome-survey]: https://forms.gle/uYGK8tFj8EygXmERA
 [exam-accommodations]: https://forms.gle/NyYbVr1s3BY95Zw1A
-[extension-request-form]: https://forms.gle/F5k5VuVLq5DPkqw78
+[extension-request-form]: https://forms.gle/VS7RC1spg2a3jQtm7
 
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
 

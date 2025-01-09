@@ -24,7 +24,7 @@ nav_order: 2
 [github]: https://github.com/dsc-courses/dsc80-2025-wi
 [welcome-survey]: https://forms.gle/9sEF68d9gWSCsqhUA
 [exam-accommodations]: https://forms.gle/x4gW3PLwZucdnpXY6
-[extension-request-form]: https://forms.gle/F5k5VuVLq5DPkqw78
+[extension-request-form]: https://forms.gle/VS7RC1spg2a3jQtm7
 
 ## About 🧐
 
