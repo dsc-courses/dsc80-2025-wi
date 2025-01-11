@@ -13,6 +13,7 @@ days:
   - name: LAB 1
     type: lab
     title: Python, NumPy, and Pandas
+    url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab01
     reading: ''
 - date: '2025-01-16'
   events:
@@ -25,5 +26,6 @@ days:
   - name: PROJ 1
     type: proj
     title: Project 1 checkpoint
+    url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/projects/project01
     reading: ''
 ---
