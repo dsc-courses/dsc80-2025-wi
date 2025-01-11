@@ -12,7 +12,7 @@ days:
   events:
   - name: LAB 1
     type: lab
-    title: '[Python, NumPy, and Pandas](https://github.com/dsc-courses/dsc80-2025-wi/blob/main/labs/lab01/lab.ipynb)'
+    title: Python, NumPy, and Pandas
     reading: ''
 - date: '2025-01-16'
   events:
