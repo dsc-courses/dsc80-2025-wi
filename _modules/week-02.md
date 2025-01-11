@@ -24,6 +24,6 @@ days:
   events:
   - name: PROJ 1
     type: proj
-    title: '[Project 1 checkpoint](https://github.com/dsc-courses/dsc80-2025-wi/blob/main/projects/project01/project.ipynb)'
+    title: Project 1 checkpoint
     reading: ''
 ---
