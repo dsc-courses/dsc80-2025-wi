@@ -7,6 +7,8 @@ days:
   - name: LEC 3
     type: lecture
     title: Aggregating
+    blank: resources/lectures/lec03/lec03-live.html
+    filled: resources/lectures/lec03/lec03.html
     reading: '[Ch. 6.2](https://learningds.org/ch/06/pandas_aggregating.html)'
 - date: '2025-01-15'
   events:
