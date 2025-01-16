@@ -2,6 +2,12 @@
 title: "Week 6 \u2013 Web data"
 weekNumber: 6
 days:
+- date: '2025-02-10'
+  events:
+  - name: DISC
+    type: disc
+    title: Midterm Review
+    reading: '[Zoom](https://ucsd.zoom.us/j/96232474094)'
 - date: '2025-02-11'
   events:
   - name: EXAM
