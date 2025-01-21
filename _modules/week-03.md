@@ -7,6 +7,8 @@ days:
   - name: LEC 5
     type: lecture
     title: Exploring and Cleaning Data
+    blank: resources/lectures/lec05/lec05-live.html
+    filled: resources/lectures/lec05/lec05.html
     reading: '[Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)'
 - date: '2025-01-22'
   events:
