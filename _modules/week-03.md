@@ -22,6 +22,8 @@ days:
   - name: LEC 6
     type: lecture
     title: Hypothesis and Permutation Testing
+    blank: resources/lectures/lec06/lec06-live.html
+    filled: resources/lectures/lec06/lec06.html
     reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
 - date: '2025-01-24'
   events:
