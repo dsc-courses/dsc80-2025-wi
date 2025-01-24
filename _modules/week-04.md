@@ -12,6 +12,7 @@ days:
   events:
   - name: LAB 3
     type: lab
+    url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab03
     title: DataFrame Manipulation
     reading: ''
 - date: '2025-01-30'
