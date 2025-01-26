@@ -25,5 +25,6 @@ days:
   - name: PROJ 2
     type: proj
     title: Project 2
+    url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/projects/project02
     reading: ''
 ---
