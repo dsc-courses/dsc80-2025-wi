@@ -21,6 +21,7 @@ days:
   - name: LEC 8
     type: lecture
     title: Imputation
+    filled: resources/lectures/lec08/lec08.html
     reading: '[DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)'
 - date: '2025-01-31'
   events:
