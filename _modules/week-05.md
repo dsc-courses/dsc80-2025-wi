@@ -13,6 +13,7 @@ days:
   events:
   - name: LAB 4
     type: lab
+    url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab04
     title: Hypothesis and Permutation Testing
     reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
 - date: '2025-02-06'
