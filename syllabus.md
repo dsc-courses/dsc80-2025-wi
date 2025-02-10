@@ -256,7 +256,7 @@ though the Final Exam will emphasize material after the Midterm Exam.
 
 - **Final Exam:** Thursday, March 20th, 11:30AM-2:30PM. Location is TBD
 
-Both exams will be administered in-person. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form](https://forms.gle/rSUYPsHdmxTN9qYv5).
+Both exams will be administered in-person. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form](https://docs.google.com/forms/d/1TqVk5VFLnUwvJhN522mCRx6i7rjobAqvDQzdX0vv-Nw/edit).
 
 ### Redemption Policy
 
