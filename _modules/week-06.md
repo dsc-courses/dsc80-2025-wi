@@ -7,7 +7,9 @@ days:
   - name: DISC
     type: disc
     title: Midterm Review
-    reading: '[Zoom](https://ucsd.zoom.us/j/96232474094)'
+    blank: '../labs/midterm-review-blank.pdf'
+    filled: '../labs/midterm-review-filled.pdf'
+    reading: '[Zoom Recording](https://ucsd.zoom.us/rec/play/U4tf4ye42_gO7XZ8wUN7pPyX5_0x-ZbRhITeTBwu_I5hyb0OfvBPbCLRYwAq5BfqLZGHcOdGZP9J3Ra1.x1IHuxw-QDDdk-B-) password:<br> v?V22U$%'
 - date: '2025-02-11'
   events:
   - name: EXAM
@@ -31,6 +33,7 @@ days:
   events:
   - name: PROJ 3
     type: proj
+    url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/projects/project03
     title: Project 3 checkpoint
     reading: ''
 ---
