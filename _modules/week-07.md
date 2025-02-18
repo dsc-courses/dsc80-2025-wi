@@ -13,6 +13,7 @@ days:
   events:
   - name: LAB 6
     type: lab
+    url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab06
     title: HTTP and HTML
     reading: ''
 - date: '2025-02-20'
