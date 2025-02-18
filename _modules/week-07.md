@@ -7,6 +7,7 @@ days:
   - name: LEC 12
     type: lecture
     title: Text Features
+    filled: resources/lectures/lec12/lec12.html
     reading: '[Ch. 13.4](https://learningds.org/ch/13/text_sotu.html)'
 - date: '2025-02-19'
   events:
