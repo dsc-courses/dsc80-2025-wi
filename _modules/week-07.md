@@ -21,6 +21,7 @@ days:
   - name: LEC 13
     type: lecture
     title: Linear Regression
+    filled: resources/lectures/lec13/lec13.html
     reading: '[Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)'
 - date: '2025-02-21'
   events:
