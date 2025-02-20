@@ -10,11 +10,11 @@ nav_order: 7
 
 # 📊 Final Project: The Data Science Lifecycle 
 {:.no_toc}
-### Checkpoint 1 Due Date: Friday, February 28th at 11:59PM
+### Checkpoint 1 (1%) Due: Friday, February 28th at 11:59PM
 {:.no_toc}
-### Checkpoint 2 Due Date: Friday, March 7th at 11:59PM
+### Checkpoint 2 (1%) Due: Friday, March 7th at 11:59PM
 {:.no_toc}
-### Final Due Date: Friday, March 14th at 11:59PM 
+### **Final Project (10%) Due: Friday, March 14th at 11:59PM** 
 {:.no_toc}
 
 ### <span style="color:red">No extensions allowed on any of the above deadlines</span>
@@ -25,13 +25,13 @@ Welcome to Final Project, the final assignment of the quarter! 👋
 
 This project aims to be a culmination of everything you've learned this quarter. In the project, you will conduct an open-ended investigation into one of the three datasets (Recipes and Ratings 🍽, League of Legends ⌨️, or Power Outages 🔋). **Specifically, you'll draw several visualizations to help understand the distributions of key variables, assess the missingness mechanisms of columns with missing values, test a hypotheses about the data, and finally, build and improve a predictive model.** This project will be entirely manually graded by us – that's right, no autograders!
 
-Final Project worth 10% in your overall grade, which means it's worth double what previous projects were worth. Its checkpoint is also worth double a regular checkpoint, at 2%. 
+Final Project worth 10% in your overall grade, which means it's worth double what previous projects were worth. There are also two checkpoints, each worth 1%. 
 
 As your final deliverables, you'll submit two things to us: a **public-facing website** as well as a **PDF of your Jupyter Notebook**. We encourage you to build something you are proud of as this will give you something concrete to put on your resume and show to potential employers!
 
 {: .green }
-> **Final Project is due on Friday, March 14th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
-> The Final Project does also have two checkpoints, which is due on **Friday, February 28th** and **Friday, March 7th**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#submission-and-rubric) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/877914/assignments/5313145/) and [checkpoint 2](https://www.gradescope.com/courses/877914/assignments/5313131/) on Gradescope; make sure to tag your partner if you have one.
+> **Final Project is due on Friday, March 14th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. <br><br>
+> The Final Project does also have two checkpoints, which is due on **Friday, February 28th** and **Friday, March 7th**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#submission-and-rubric) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/941090/assignments/5820453/) and [checkpoint 2](https://www.gradescope.com/courses/941090/assignments/5820459/) on Gradescope; make sure to tag your partner if you have one.
 
 The project is broken into two parts:
 
@@ -77,7 +77,7 @@ Before choosing a dataset, read the rest of this page to see what's required of 
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the [`dsc80-2024-fa`](https://github.com/dsc-courses/dsc80-2024-fa/) repo. Within the `projects/project04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-fa/blob/main/projects/project04/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2025-wi`](https://github.com/dsc-courses/dsc80-2025-wi/) repo. Within the `projects/project04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2025-wi/blob/main/projects/project04/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the three [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -125,7 +125,7 @@ In Steps 5-8, you will build a predictive model, based on the knowledge of your 
 
 | Step  | Analysis in Notebook | Report on Website |
 | --- | --- | --- |
-|**Problem Identification**|Identify a prediction problem. Feel free to use one of the example prediction problems stated in the "Example Questions and Prediction Problems" section of your dataset's description page or pose a hypothesis test of your own. The prediction problem you come up with doesn't have to be related to the question you were answering in Steps 1-4, but ideally, your entire project has some sort of coherent theme.|Clearly state your prediction problem and type (classification or regression). If you are building a classifier, make sure to state whether you are performing binary classification or multiclass classification. Report the response variable (i.e. the variable you are predicting) and why you chose it, the metric you are using to evaluate your model and why you chose it over other suitable metrics (e.g. accuracy vs. F1-score).<br><br>***Note***: Make sure to justify what information you would know at the "time of prediction" and to only train your model using those features. For instance, if we wanted to predict your final exam grade, we couldn’t use your Final Project grade, because the project is only due after the final exam! Feel free to ask questions if you're not sure.|
+|**Problem Identification**|Identify a prediction problem. Feel free to use one of the example prediction problems stated in the "Example Questions and Prediction Problems" section of your dataset's description page or pose a hypothesis test of your own. The prediction problem you come up with doesn't have to be related to the question you were answering in Steps 1-4, but ideally, your entire project has some sort of coherent theme.|Clearly state your prediction problem and type (classification or regression). If you are building a classifier, make sure to state whether you are performing binary classification or multiclass classification. Report the response variable (i.e. the variable you are predicting) and why you chose it, the metric you are using to evaluate your model and why you chose it over other suitable metrics (e.g. accuracy vs. F1-score).<br><br> **_Note_**: Make sure to justify what information you would know at the "time of prediction" and to only train your model using those features. For instance, if we wanted to predict your final exam grade, we couldn’t use your Final Project grade, because the project is only due after the final exam! Feel free to ask questions if you're not sure. |
 
 ### Step 6: Baseline Model
 
@@ -184,7 +184,7 @@ If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github
 
 1. Create a GitHub account, if you don't already have one.
 1. Create a new GitHub repository for your project.
-   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2024-fa](https://github.com/dsc-courses/dsc80-2024-fa) is [dsc-courses.github.io/dsc80-2024-fa](https://dsc-courses.github.io/dsc80-2024-fa)).
+   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2025-wi](https://github.com/dsc-courses/dsc80-2025-wi) is [dsc-courses.github.io/dsc80-2025-wi](https://dsc-courses.github.io/dsc80-2025-wi)).
    - As such, **don't** include "DSC 80" or "Final Project" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for DSC 80 at UCSD in the repository description.
    - **Make sure to make your repository public.**
    - Select "ADD a README file." This ensures that your repository starts off non-empty, which is necessary to continue.
@@ -226,7 +226,7 @@ Note that you're free to use any Jekyll theme, not just the ones that appear [he
 
 ### Step 3: Embedding Content
 
-Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/dsc-courses/dsc80-2024-sp/gh-pages/project4/index.md) – meta!).
+Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/dsc-courses/dsc80-2025-wi/gh-pages/proj04/index.md) – meta!).
 
 What will be a bit trickier is embedding `plotly` plots in your site so that they are interactive. Note that you are **required** to do this, you cannot simply take screenshots of plots from your notebooks and embed them in your site. Here's how to embed a `plotly` plot directly in your site.
 
@@ -270,9 +270,12 @@ The above instructions give you all you need to create and make updates to your 
 
 ## Submission and Rubric
 
+{: .green }
+As mentioned at the top of this page, this project has **two checkpoints**, each worth 1% of your overall grade.
+
 ### Checkpoint 1 Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The first checkpoint is due on **Tuesday, November 19th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/877914/assignments/5313145/) on Gradescope.
+The first checkpoint is due on **Friday, February 28th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/941090/assignments/5820453) on Gradescope.
 
 The checkpoint 1 assignment is worth 20 points, and asks you to answer the following questions:
 
@@ -283,11 +286,11 @@ The checkpoint 1 assignment is worth 20 points, and asks you to answer the follo
 
 ### Checkpoint 2 Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The second one is due on **Tuesday, November 26th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/877914/assignments/5313131/) on Gradescope.
+The second one is due on **Friday, March 7th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/941090/assignments/5820459) on Gradescope.
 
 The checkpoint 2 assignment is worth 20 points, and asks you to answer the following questions:
 
-1. (7.5 points) For step 4, what are two hypotheses you have tested, and what were the result?
+1. (7.5 points) For step 4, what are your null and alternative hypotheses, and what were the result?
 1. (7.5 points) Briefly explain your baseline model and your plans for improving the model.
 1. (5 points) Submit a working GitHub page webpage URL for the project. On the webpage, you need to at least include a project title.
 
@@ -321,9 +324,9 @@ Note that the rubric is intentionally vague when it comes to Steps 5-8. This is 
 | **Step 2: Data Cleaning and Exploratory Data Analysis** <br>• Cleaned data (8 points)<br>• Performed univariate analyses (8 points)<br>• Performed bivariate analyses and aggregations (8 points) | 24 points       |
 | **Step 3: Assessment of Missingness** <br>• Addressed NMAR question (4 points) <br> • Performed permutation tests for missingness (8 points) <br> • Interpreted missingness test results (8 points)                                       | 20 points |
 | **Step 4: Hypothesis Testing**<br>• Selected relevant columns for a hypothesis or permutation test (4 points)<br>• Explicitly stated a null hypothesis (4 points)<br>• Explicitly stated an alternative hypothesis (4 points)<br>• Performed a hypothesis or permutation test (8 points)<br>• Used a valid test statistic (4 points)<br>• Computed a $$p$$-value and made a decision (4 points)  | 28 points | 
-| **Step 5: Framing a Prediction Problem** | 15 points |
-| **Step 6: Baseline Model** | 35 points |
-| **Step 7: Final Model** | 35 points |
-| **Step 8: Fairness Analysis** | 15 points |
+| **Step 5: Framing a Prediction Problem** <br> see requirements above| 15 points |
+| **Step 6: Baseline Model** <br> see requirements above| 35 points |
+| **Step 7: Final Model** <br> see requirements above| 35 points |
+| **Step 8: Fairness Analysis** <br> see requirements above| 15 points |
 | **Overall: Included all necessary components on the website** | 20 points      |
 | **Total**                                                      | **200 points** |
