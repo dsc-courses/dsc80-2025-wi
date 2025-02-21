@@ -4,9 +4,9 @@ weekNumber: 10
 days:
 - date: '2025-03-10'
   events:
-  - name: DISC
-  - type: disc
-  - title: Final Review
+  - name: DISC 
+    type: disc
+    title: Final Review
 - date: '2025-03-11'
   events:
   - name: LEC 18
