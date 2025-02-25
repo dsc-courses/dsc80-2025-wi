@@ -13,12 +13,6 @@ days:
     type: lecture
     title: Classifier Evaluation and Model Fairness
     reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html)'
-- date: '2025-03-12'
-  events:
-  - name: LAB 9
-    type: lab
-    title: Pipelines
-    reading: ''
 - date: '2025-03-13'
   events:
   - name: LEC 19
