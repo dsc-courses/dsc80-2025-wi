@@ -23,11 +23,11 @@ This dataset contains recipes and ratings from [food.com](https://food.com). It 
 
 ## Getting the Data
 
-Download the data [here](https://drive.google.com/file/d/1kIbMz6jlhleiZ9_3QthmUnifoSds_2EI/view?usp=sharing). You'll download two CSV files:
+Download the data [here](https://drive.google.com/drive/folders/15965zA-g3QbfFqEIzLzk5ICPn4yGzHmr?usp=sharing). You'll download two CSV files:
 - `RAW_recipes.csv` contains recipes.
 - `RAW_interactions.csv` contains reviews and ratings submitted for the recipes in `RAW_recipes.csv`.
 
-We've provided you with a subset of the raw data used in the original report, containing only the recipes and reviews posted since 2008, since the original data is quite large.
+We've provided you with a subset of the raw data used in the original report, containing only the recipes and reviews posted since 2008, since the [original data](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_interactions.csv) is quite large.
 
 A description of each column in both datasets is given below.
 
