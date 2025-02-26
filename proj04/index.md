@@ -17,7 +17,7 @@ nav_order: 7
 ### **Final Project (10%) Due: Friday, March 14th at 11:59PM** 
 {:.no_toc}
 
-### <span style="color:red">No extensions allowed on any of the above deadlines</span>
+### <span style="color:red">No extensions allowed on the final deadline</span>
 {:.no_toc}
 ---
 
