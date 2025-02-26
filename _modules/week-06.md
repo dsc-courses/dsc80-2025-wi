@@ -15,7 +15,7 @@ days:
   - name: EXAM
     type: exam
     title: Midterm Exam
-    reading: ''
+    reading: '[info sheet](assets/exam/midterm_info.pdf)'
 - date: '2025-02-12'
   events:
   - name: LAB 5
