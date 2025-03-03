@@ -7,6 +7,7 @@ days:
   - name: LEC 16
     type: lecture
     title: Hyperparameters, Cross-Validation, and Decision Trees
+    filled: resources/lectures/lec16/lec16.html
     reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html)'
 - date: '2025-03-05'
   events:
