@@ -6,7 +6,8 @@ days:
   events:
   - name: DISC 
     type: disc
-    title: Final Review
+    title: Final Review (7-9pm)
+    reading: '[Zoom](https://ucsd.zoom.us/j/92850776956)'
 - date: '2025-03-11'
   events:
   - name: LEC 18
