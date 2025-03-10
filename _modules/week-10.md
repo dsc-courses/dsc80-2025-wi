@@ -12,14 +12,9 @@ days:
   events:
   - name: LEC 18
     type: lecture
-    title: Classifier Evaluation and Model Fairness
-    reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html)'
-- date: '2025-03-13'
-  events:
-  - name: LEC 19
-    type: lecture
-    title: Review, Conclusion
-    reading: '[Ch. 19.5](https://learningds.org/ch/19/class_dr.html)'
+    title: Classifier Evaluation, Model Fairness and Conclusion
+    filled: resources/lectures/lec18/lec18.html
+    reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html), [Ch. 19.5](https://learningds.org/ch/19/class_dr.html)'
 - date: '2025-03-14'
   events:
   - name: FINAL PROJ
