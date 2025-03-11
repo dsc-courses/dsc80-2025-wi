@@ -7,6 +7,7 @@ days:
   - name: DISC 
     type: disc
     title: Final Review (7-9pm)
+    blank: '../labs/final-review-blank.pdf'
     reading: '[Zoom](https://ucsd.zoom.us/j/92850776956)'
 - date: '2025-03-11'
   events:
