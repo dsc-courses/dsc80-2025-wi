@@ -6,9 +6,10 @@ days:
   events:
   - name: DISC 
     type: disc
-    title: Final Review (7-9pm)
+    title: Final Review
     blank: '../labs/final-review-blank.pdf'
-    reading: '[Zoom](https://ucsd.zoom.us/j/92850776956)'
+    filled: '../labs/final-review-filled.pdf'
+    reading: '[Zoom Recording](https://ucsd.zoom.us/rec/share/iJl1lRyh1CcBPsZ9A_G-qgFflgfj-27qDtvX0jpAjs1PAtODz-zuZ5WUWL08O0Is.WcIcmcrbqv2T616F?startTime=1741658660000 Passcode: .EL@j5YV)'
 - date: '2025-03-11'
   events:
   - name: LEC 18
