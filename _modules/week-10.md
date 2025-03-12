@@ -9,7 +9,7 @@ days:
     title: Final Review
     blank: '../labs/final-review-blank.pdf'
     filled: '../labs/final-review-filled.pdf'
-    reading: '[Zoom Recording](https://ucsd.zoom.us/rec/share/iJl1lRyh1CcBPsZ9A_G-qgFflgfj-27qDtvX0jpAjs1PAtODz-zuZ5WUWL08O0Is.WcIcmcrbqv2T616F?startTime=1741658660000 Passcode: .EL@j5YV)'
+    reading: '[Zoom Recording](https://ucsd.zoom.us/rec/share/WnM2-m3lXHLySzm87aYFdVo9UtJIr4QtKc6fzTzdRZ4V3Vbe4oHOMHXRKEixkc1V.wNVGtmICnAlcd2ZY)'
 - date: '2025-03-11'
   events:
   - name: LEC 18
