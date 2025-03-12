@@ -9,7 +9,7 @@ days:
     title: Midterm Review
     blank: '../labs/midterm-review-blank.pdf'
     filled: '../labs/midterm-review-filled.pdf'
-    reading: '[Zoom Recording](https://ucsd.zoom.us/rec/play/U4tf4ye42_gO7XZ8wUN7pPyX5_0x-ZbRhITeTBwu_I5hyb0OfvBPbCLRYwAq5BfqLZGHcOdGZP9J3Ra1.x1IHuxw-QDDdk-B-) password:<br> v?V22U$%'
+    reading: '[Zoom Recording](https://ucsd.zoom.us/rec/share/p8bP0UdT2IENiwsokVHSMHOUMbAnzFm8DksULUWk_SV-_YDpwLAGdhd5CtCJsce6.bms0HAMUhydEraMG)'
 - date: '2025-02-11'
   events:
   - name: EXAM
